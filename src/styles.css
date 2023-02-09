@@ -1,0 +1,6 @@
+@import "node_modules/bootstrap/dist/css/bootstrap.css";
+
+body{
+    background-image: url('../../wahba_insurance/src/assets/images/background.jpg');
+    background-attachment: fixed;
+}
